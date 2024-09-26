@@ -1,2 +1,2 @@
 # Proa_Figma
- APP de Gestão Financeira
+Projeto de um protótipo de APP de Gestão Financeira (em andamento)
